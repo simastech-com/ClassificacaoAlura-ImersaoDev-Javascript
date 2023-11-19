@@ -28,6 +28,7 @@ As melhorias são itens incluídos no projeto e que não foram solicitados nas a
     <li>Alterações de css e inclusão de algumas imagens localmente.</li>
     <li>Inclusão de favicon.</li>
     <li>Botão para excluir todos os jogadores.</li>
+    <li>Uso de classes.</li>
 </ul>
 
 # Visualização
