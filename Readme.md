@@ -13,8 +13,8 @@ Os desafios foram atividades deixadas ao fim da aula para serem resolvidas.
 <ul>
     <li><b>Incluir um botão e campos de texto para adicionar novos jogadores, juntamente com seus respectivos dados:</b> [Realizado]</li>
     <li><b>Usar o jogo favorito como base para a pontuação na tabela de classificação:</b> Por não ter familiaridade com nenhum jogo, este item não foi executado. [Não Realizado]</li>
-    <li><b>Compartilhar nas redes sociais:</b> Compartilhado no Discord[Realizado]</li>
-    <li><b>Criar a lógica para quando ocorrer um empate, ajustar automaticamente o placar de empate para os demais jogadores:</b> Foi colocado um botão para atribuir o empate a todos os jogadores[Realizado]</li>
+    <li><b>Compartilhar nas redes sociais:</b> Compartilhado no Discord. [Realizado]</li>
+    <li><b>Criar a lógica para quando ocorrer um empate, ajustar automaticamente o placar de empate para os demais jogadores:</b> Foi colocado um botão para atribuir o empate a todos os jogadores. [Realizado]</li>
     <li><b>Validar se a pontuação está consistente, verificando se o número de vitórias, derrotas e empates faz sentido para cada jogador (por exemplo, não pode haver mais vitórias do que derrotas):</b> Este item não foi compreendido e por isso não foi executado. [Não Realizado]</li>
     <li><b>Adicionar a imagem de cada jogador:</b> [Realizado]</li>
     <li><b>Criar um botão para zerar todos os pontos:</b> [Realizado]</li>
@@ -25,6 +25,7 @@ As melhorias são itens incluídos no projeto e que não foram solicitados nas a
 
 <ul>
     <li>Tratamento para obrigar a inclusão do nome e do link da imagem do jogador.</li>
+    <li>Não permite inclusão de 2 jogadores com o mesmo nome.</li>
     <li>Alterações de css e inclusão de algumas imagens localmente.</li>
     <li>Inclusão de favicon.</li>
     <li>Botão para excluir todos os jogadores.</li>
