@@ -1,6 +1,6 @@
-## AluraFlix 2
+## Classificação Alura
 
-<img src="https://github.com/simastech-com/AluraFlix2-ImersaoDev-Javascript/blob/main/img/splash.png" width="600">
+<img src="https://github.com/simastech-com/ClassificacaoAlura-ImersaoDev-Javascript/blob/main/img/splash.png" width="600">
 
 Projeto desenvolvido na imersão JavaScript da Alura, realizada entre os dias 13/11/2023 e 17/11/2023. Trata-se de uma tabela de classificação de jogadores. Este projeto foi desenvolvido no quinto dia da imersão (17/11/2023). 
 
@@ -32,5 +32,5 @@ As melhorias são itens incluídos no projeto e que não foram solicitados nas a
 </ul>
 
 # Visualização
-Para visualizar e interagir com  página, acesse este link: https://simastech-com.github.io/AluraFlix2-ImersaoDev-Javascript/
+Para visualizar e interagir com  página, acesse este link: https://simastech-com.github.io/ClassificacaoAlura-ImersaoDev-Javascript/
 
